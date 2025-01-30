@@ -1,0 +1,339 @@
+<div class="cyJYod"><div class="dUDIUl"><div class="bwpowm"><div>
+      2024 Global Peace Index
+    </div> <!----> <div class="kIlkHX" alt="Toggle Fullscreen"></div></div> <div class="a"><div class="icGFvY" type="GPI"><div class="hIotTa"><div class="jJqjMH">
+      Overall GPI Score
+    </div> <div class="bnSYFO">
+      A composite index measuring the peacefulness of countries made up of 23 quantitative and qualitative indicators each weighted on a scale of 1-5. The lower the score the more peaceful the country.
+    </div></div> <div class="hzeIBF"><div><table class="fHbYEu"><thead class="a"><tr class="jfxmZw"><th class="hPKPLe">
+          rank
+          <!----></th><th class="hPKPLe">
+          region
+          <!----></th><th class="hPKPLe">
+          score
+          <div class="arrow arrow_up"></div></th></tr></thead> <tbody class="a"><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>1</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="eINpBT"></div></div></span>
+            Iceland
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.112</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>2</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="btAiIN"></div></div></span>
+            Ireland
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.303</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>3</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="kcciqK"></div></div></span>
+            Austria
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.313</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>4</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="jrRfV"></div></div></span>
+            New Zealand
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.323</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>5</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="bfQkBT"></div></div></span>
+            Singapore
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.339</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>6</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="dLiEPh"></div></div></span>
+            Switzerland
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.35</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>7</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="hBXzBF"></div></div></span>
+            Portugal
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.372</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>8</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="kgpOlT"></div></div></span>
+            Denmark
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.382</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>9</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="jtnwpA"></div></div></span>
+            Slovenia
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.395</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>10</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="fYDhxm"></div></div></span>
+            Malaysia
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.427</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>11</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="leyRlP"></div></div></span>
+            Canada
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.449</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>12</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="gyFlcZ"></div></div></span>
+            Czechia
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.459</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>13</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="csHFIb"></div></div></span>
+            Finland
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.474</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>14</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="hrRaPu"></div></div></span>
+            Hungary
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.502</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>15</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="fqMtLt"></div></div></span>
+            Croatia
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.504</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>16</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="gCobBO"></div></div></span>
+            Belgium
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.51</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>17</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="eyrFMj"></div></div></span>
+            Japan
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.525</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>18</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="iTNFTI"></div></div></span>
+            Netherlands
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.527</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>19</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="dcpgW"></div></div></span>
+            Australia
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.536</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>20</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="iDRx"></div></div></span>
+            Germany
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.542</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>21</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="eoDbAI"></div></div></span>
+            Bhutan
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.564</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>22</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="eyLvzo"></div></div></span>
+            Mauritius
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.577</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>23</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="fUxAYV"></div></div></span>
+            Spain
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.597</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>24</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="ewlfsu"></div></div></span>
+            Estonia
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.615</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>25</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="fIGMIH"></div></div></span>
+            Kuwait
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.622</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>26</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="hliTgA"></div></div></span>
+            Bulgaria
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.629</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>27</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="iNhFfj"></div></div></span>
+            Slovakia
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.634</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>28</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="fDBWcr"></div></div></span>
+            Norway
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.638</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>29</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="gtAloT"></div></div></span>
+            Qatar
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.656</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>30</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="jdxAOX"></div></div></span>
+            Latvia
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.661</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>31</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="gxXeSz"></div></div></span>
+            Lithuania
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.672</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>32</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="fgLezf"></div></div></span>
+            Poland
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.678</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>33</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="bsuChx"></div></div></span>
+            Italy
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.692</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>34</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="jPPooM"></div></div></span>
+            United Kingdom
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.703</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>35</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="diajuZ"></div></div></span>
+            Montenegro
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.746</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>36</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="kZTeHV"></div></div></span>
+            Romania
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.755</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>37</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="crlRND"></div></div></span>
+            Oman
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.761</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>38</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="KOect"></div></div></span>
+            North Macedonia
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.764</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>39</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="ffJjMt"></div></div></span>
+            Sweden
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.782</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>40</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="bkxbsb"></div></div></span>
+            Greece
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.793</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>41</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="fzEhRR"></div></div></span>
+            Vietnam
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.802</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>42</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="kWMhMY"></div></div></span>
+            Albania
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.809</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>43</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="eNfLeJ"></div></div></span>
+            Taiwan
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.818</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>44</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="kvwHNl"></div></div></span>
+            Madagascar
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.838</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>45</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="dIqrJR"></div></div></span>
+            Mongolia
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.845</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>46</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="eGlPaZ"></div></div></span>
+            South Korea
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.848</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>47</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="cUjtZT"></div></div></span>
+            Argentina
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.855</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>48</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="dptVge"></div></div></span>
+            Indonesia
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.857</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>49</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="evMdij"></div></div></span>
+            Laos
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.861</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>50</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="cTsXnS"></div></div></span>
+            Botswana
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.863</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>51</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="ggEDVc"></div></div></span>
+            Timor-Leste
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.882</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>52</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="drFasz"></div></div></span>
+            Uruguay
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.893</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>53</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="kyrdpj"></div></div></span>
+            United Arab Emirates
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.897</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>54</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="gorcBZ"></div></div></span>
+            Serbia
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.93</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>55</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="cpmyVv"></div></div></span>
+            Ghana
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.938</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>56</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="ionDJu"></div></div></span>
+            Kosovo
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.945</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>57</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="ibFDzz"></div></div></span>
+            Zambia
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.948</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>58</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="kPUHDF"></div></div></span>
+            Costa Rica
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.95</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>59</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="JHRbZ"></div></div></span>
+            Kazakhstan
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.954</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>60</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="cSiiNV"></div></div></span>
+            Uzbekistan
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.957</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>61</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="fwgAMG"></div></div></span>
+            Bosnia and Herzegovina
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.961</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>62</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="hozxLO"></div></div></span>
+            Namibia
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.972</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>63</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="fqfeTF"></div></div></span>
+            Moldova
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.976</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>64</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="ghjMhj"></div></div></span>
+            Chile
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.978</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>65</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="cGlVka"></div></div></span>
+            Tanzania
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.987</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>66</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="hVggNl"></div></div></span>
+            Sierra Leone
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.993</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>67</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="desuBb"></div></div></span>
+            Jordan
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>1.998</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>68</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="kqfzUr"></div></div></span>
+            Bolivia
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.009</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>69</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="hnSokk"></div></div></span>
+            Liberia
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.025</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>70</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="juBEzt"></div></div></span>
+            Cyprus
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.026</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>71</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="eeCIUZ"></div></div></span>
+            Cambodia
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.028</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>72</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="etXPEv"></div></div></span>
+            Tajikistan
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.035</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>73</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="bfwpjh"></div></div></span>
+            Angola
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.043</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>74</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="glNRhb"></div></div></span>
+            Paraguay
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.044</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>74</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="egODfD"></div></div></span>
+            Tunisia
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.044</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>76</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="iLLJTp"></div></div></span>
+            Thailand
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.048</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>77</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="koymui"></div></div></span>
+            Armenia
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.052</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>78</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="kUYebs"></div></div></span>
+            Kyrgyz Republic
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.053</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>79</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="eiEIEd"></div></div></span>
+            Morocco
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.054</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>80</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="DkIP"></div></div></span>
+            Malawi
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.063</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>81</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="fplHBe"></div></div></span>
+            Nepal
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.069</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>82</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="bydKPS"></div></div></span>
+            Bahrain
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.072</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>83</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="fqExqT"></div></div></span>
+            The Gambia
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.079</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>83</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="hDOWlI"></div></div></span>
+            Turkmenistan
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.079</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>85</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="iUttXD"></div></div></span>
+            Senegal
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.084</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>86</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="jMGjmk"></div></div></span>
+            Guinea-Bissau
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.085</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>87</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="bWZKFn"></div></div></span>
+            France
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.088</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>88</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="ipwpWp"></div></div></span>
+            Trinidad and Tobago
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.092</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>89</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="aYYQS"></div></div></span>
+            China
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.101</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>90</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="dUmJfo"></div></div></span>
+            Algeria
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.11</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>91</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="gFhGkj"></div></div></span>
+            Jamaica
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.119</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>92</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="jhEKLr"></div></div></span>
+            Rwanda
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.12</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>93</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="fxkqlq"></div></div></span>
+            Bangladesh
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.126</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>94</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="jEyTlK"></div></div></span>
+            Equatorial Guinea
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.132</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>95</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="jiRzAC"></div></div></span>
+            Mauritania
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.136</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>96</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="eMaWhB"></div></div></span>
+            Panama
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.14</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>97</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="czhCMH"></div></div></span>
+            Dominican Republic
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.157</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>98</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="kTPoqx"></div></div></span>
+            Cuba
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.16</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>99</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="jGVpeE"></div></div></span>
+            Peru
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.179</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>100</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="fxYmNm"></div></div></span>
+            Georgia
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.195</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>100</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="eTHXQD"></div></div></span>
+            Sri Lanka
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.195</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>102</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="bmIewp"></div></div></span>
+            Saudi Arabia
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.206</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>103</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="jkGlOJ"></div></div></span>
+            Eswatini
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.209</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>104</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="fywgpM"></div></div></span>
+            Philippines
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.21</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>105</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="geRxcH"></div></div></span>
+            Egypt
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.212</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>106</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="gEcPjx"></div></div></span>
+            Azerbaijan
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.248</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>107</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="dLSbRB"></div></div></span>
+            Mozambique
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.25</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>107</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="bOBPpV"></div></div></span>
+            El Salvador
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.25</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>109</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="insRiV"></div></div></span>
+            Cote d' Ivoire
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.255</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>110</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="krMdCf"></div></div></span>
+            Republic of the Congo
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.261</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>111</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="hdCCys"></div></div></span>
+            Guyana
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.286</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>112</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="iWdJTg"></div></div></span>
+            Belarus
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.291</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>113</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="jkxRet"></div></div></span>
+            Nicaragua
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.295</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>114</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="bZsESz"></div></div></span>
+            Benin
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.306</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>115</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="hDaJwB"></div></div></span>
+            Papua New Guinea
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.315</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>116</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="hjsmpd"></div></div></span>
+            India
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.319</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>117</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="lnVDKV"></div></div></span>
+            Guatemala
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.332</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>118</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="koKvFO"></div></div></span>
+            Gabon
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.372</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>119</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="kharVg"></div></div></span>
+            Djibouti
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.374</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>120</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="bJnAIx"></div></div></span>
+            Togo
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.381</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>121</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="iwCKLG"></div></div></span>
+            Zimbabwe
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.396</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>122</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="kjPsaM"></div></div></span>
+            Kenya
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.409</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>123</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="jQkaBL"></div></div></span>
+            Honduras
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.415</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>124</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="hPcsFu"></div></div></span>
+            Guinea
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.423</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>125</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="kNEHSN"></div></div></span>
+            Lesotho
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.461</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>126</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="efmPlW"></div></div></span>
+            Uganda
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.477</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>127</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="hiRrQy"></div></div></span>
+            South Africa
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.507</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>128</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="eYDqwD"></div></div></span>
+            Libya
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.528</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>129</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="kiZirf"></div></div></span>
+            Burundi
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.567</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>130</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="jzYVXP"></div></div></span>
+            Ecuador
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.572</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>131</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="emfNDV"></div></div></span>
+            Brazil
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.589</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>132</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="lcjyiQ"></div></div></span>
+            United States of America
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.622</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>133</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="fWFXtu"></div></div></span>
+            Iran
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.682</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>134</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="dwddaZ"></div></div></span>
+            Lebanon
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.693</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>135</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="fOyMPt"></div></div></span>
+            Chad
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.704</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>136</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="BcZoE"></div></div></span>
+            Eritrea
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.748</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>137</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="bYQcBL"></div></div></span>
+            Cameroon
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.773</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>138</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="bNJGc"></div></div></span>
+            Mexico
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.778</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>139</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="hJbCJY"></div></div></span>
+            Turkiye
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.78</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>140</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="dcwxir"></div></div></span>
+            Pakistan
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.783</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>141</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="iTmgNm"></div></div></span>
+            Niger
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.792</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>142</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="jZBBHe"></div></div></span>
+            Venezuela
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.821</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>143</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="jilvFU"></div></div></span>
+            Haiti
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.827</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>144</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="fRDLUl"></div></div></span>
+            Ethiopia
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.845</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>145</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="bvMITD"></div></div></span>
+            Palestine
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.872</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>146</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="eJPJoP"></div></div></span>
+            Colombia
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.887</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>147</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="hZYSbW"></div></div></span>
+            Nigeria
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.907</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>148</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="jBPsNR"></div></div></span>
+            Myanmar
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.943</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>149</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="fzPwCe"></div></div></span>
+            Burkina Faso
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>2.969</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>150</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="gklcJG"></div></div></span>
+            Central African Republic
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>3.009</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>151</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="ckaGm"></div></div></span>
+            Iraq
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>3.045</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>152</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="bPXWQV"></div></div></span>
+            North Korea
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>3.055</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>153</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="fpebJg"></div></div></span>
+            Somalia
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>3.091</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>154</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="jtwDSA"></div></div></span>
+            Mali
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>3.095</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>155</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="hJQItT"></div></div></span>
+            Israel
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>3.115</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>156</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="bcHRUW"></div></div></span>
+            Russia
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>3.134</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>157</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="hRebzF"></div></div></span>
+            Syria
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>3.173</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>158</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="XBmLC"></div></div></span>
+            Democratic Republic of the Congo
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>3.264</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>159</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="GwfPO"></div></div></span>
+            Ukraine
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>3.28</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>160</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="jRfRuf"></div></div></span>
+            Afghanistan
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>3.294</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>161</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="zQgr"></div></div></span>
+            South Sudan
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>3.324</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>162</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="jlkCir"></div></div></span>
+            Sudan
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>3.327</b></span> <!----></td></tr><tr class="jfxmZw"><td class="jVjfjV"><!----> <!----> <!----> <span><b>163</b></span></td><td class="jVjfjV"><!----> <span class="bvFtdl"><span class="hArVcQ"><div class="iezPDq"><div class="fAzniv"></div></div></span>
+            Yemen
+          </span> <!----> <!----></td><td class="jVjfjV"><!----> <!----> <span><b>3.397</b></span> <!----></td></tr></tbody></table></div></div></div> <!----></div></div></div>
