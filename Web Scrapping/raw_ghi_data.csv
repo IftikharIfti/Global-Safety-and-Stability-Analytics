@@ -1,4 +1,4 @@
-Year,Rank,Country,Crime Index
+Year,Rank,Country,Health Index
 2012,1,Japan,96.1
 2012,2,Indonesia,94.1
 2012,3,Sri Lanka,93.5
@@ -6,7 +6,7 @@ Year,Rank,Country,Crime Index
 2012,5,Israel,91.7
 2012,6,Denmark,89.8
 2012,7,Colombia,88.9
-2012,8,Malta,87.0
+2012,8,Malta,87
 2012,9,New Zealand,86.8
 2012,10,Sweden,86.8
 2012,11,Austria,83.2
@@ -18,20 +18,20 @@ Year,Rank,Country,Crime Index
 2012,17,Switzerland,79.5
 2012,18,Bolivia,79.2
 2012,19,Australia,79.1
-2012,20,Norway,79.0
+2012,20,Norway,79
 2012,21,Ecuador,77.8
 2012,22,Finland,77.1
 2012,23,Argentina,76.7
 2012,24,Philippines,76.1
-2012,25,United Kingdom,76.0
+2012,25,United Kingdom,76
 2012,26,Taiwan,74.1
-2012,27,Canada,72.0
-2012,28,Germany,72.0
+2012,27,Canada,72
+2012,28,Germany,72
 2012,29,Jordan,70.8
 2012,30,Slovakia,70.4
 2012,31,Netherlands,70.4
-2012,32,Turkey,70.0
-2012,33,Portugal,70.0
+2012,32,Turkey,70
+2012,33,Portugal,70
 2012,34,Spain,69.9
 2012,35,Estonia,69.4
 2012,36,Malaysia,69.1
@@ -39,18 +39,18 @@ Year,Rank,Country,Crime Index
 2012,38,Georgia,67.1
 2012,39,Egypt,65.7
 2012,40,United States,65.5
-2012,41,Croatia,65.0
-2012,42,Czech Republic,65.0
+2012,41,Croatia,65
+2012,42,Czech Republic,65
 2012,43,Lithuania,64.6
 2012,44,United Arab Emirates,63.9
 2012,45,Pakistan,60.4
 2012,46,Bulgaria,60.3
-2012,47,Hungary,60.0
+2012,47,Hungary,60
 2012,48,South Africa,59.5
 2012,49,India,59.4
 2012,50,Chile,59.3
 2012,51,Brazil,59.1
-2012,52,Singapore,59.0
+2012,52,Singapore,59
 2012,53,Serbia,57.4
 2012,54,Bosnia And Herzegovina,57.4
 2012,55,Poland,55.8
@@ -67,7 +67,7 @@ Year,Rank,Country,Crime Index
 2012,66,China,36.1
 2012,67,Russia,35.5
 2013,1,Thailand,94.7
-2013,2,Israel,87.0
+2013,2,Israel,87
 2013,3,Denmark,86.1
 2013,4,France,85.6
 2013,5,Panama,82.4
@@ -85,7 +85,7 @@ Year,Rank,Country,Crime Index
 2013,17,Colombia,77.3
 2013,18,Costa Rica,77.1
 2013,19,Finland,76.4
-2013,20,New Zealand,76.0
+2013,20,New Zealand,76
 2013,21,Spain,75.6
 2013,22,Australia,75.6
 2013,23,Jordan,75.4
@@ -94,13 +94,13 @@ Year,Rank,Country,Crime Index
 2013,26,Canada,72.8
 2013,27,Mexico,72.1
 2013,28,Slovenia,72.1
-2013,29,Switzerland,72.0
+2013,29,Switzerland,72
 2013,30,Turkey,71.9
 2013,31,United Kingdom,71.3
 2013,32,Hong Kong,71.1
 2013,33,Lithuania,70.8
-2013,34,Cyprus,70.0
-2013,35,Georgia,69.0
+2013,34,Cyprus,70
+2013,35,Georgia,69
 2013,36,Qatar,68.1
 2013,37,United States,67.8
 2013,38,Bolivia,67.4
@@ -111,16 +111,16 @@ Year,Rank,Country,Crime Index
 2013,43,Italy,64.8
 2013,44,Morocco,63.3
 2013,45,India,62.7
-2013,46,Czech Republic,62.0
+2013,46,Czech Republic,62
 2013,47,Portugal,61.6
 2013,48,Chile,61.5
 2013,49,South Africa,61.3
 2013,50,China,60.9
-2013,51,Slovakia,60.0
+2013,51,Slovakia,60
 2013,52,United Arab Emirates,59.9
 2013,53,Malaysia,59.7
 2013,54,Egypt,59.1
-2013,55,Puerto Rico,59.0
+2013,55,Puerto Rico,59
 2013,56,Singapore,58.8
 2013,57,Poland,57.8
 2013,58,Brazil,57.6
@@ -131,10 +131,10 @@ Year,Rank,Country,Crime Index
 2013,63,Bosnia And Herzegovina,54.5
 2013,64,Cambodia,53.8
 2013,65,Peru,53.7
-2013,66,Hungary,51.0
+2013,66,Hungary,51
 2013,67,Greece,50.4
-2013,68,Croatia,50.0
-2013,69,Ireland,49.0
+2013,68,Croatia,50
+2013,69,Ireland,49
 2013,70,Indonesia,48.5
 2013,71,Ukraine,47.9
 2013,72,Pakistan,47.9
@@ -150,12 +150,12 @@ Year,Rank,Country,Crime Index
 2013,82,Azerbaijan,28.7
 2014,1,Denmark,85.6
 2014,2,Thailand,85.4
-2014,3,Japan,85.0
+2014,3,Japan,85
 2014,4,France,82.3
 2014,5,Austria,79.7
 2014,6,South Korea,79.2
 2014,7,Taiwan,78.3
-2014,8,Belgium,78.0
+2014,8,Belgium,78
 2014,9,New Zealand,77.8
 2014,10,Argentina,76.7
 2014,11,Sri Lanka,76.7
@@ -178,13 +178,13 @@ Year,Rank,Country,Crime Index
 2014,28,Finland,68.7
 2014,29,United States,68.6
 2014,30,Colombia,68.5
-2014,31,Switzerland,68.0
+2014,31,Switzerland,68
 2014,32,Czech Republic,66.3
 2014,33,Kuwait,66.2
 2014,34,Netherlands,66.2
 2014,35,China,65.1
-2014,36,Italy,65.0
-2014,37,Latvia,65.0
+2014,36,Italy,65
+2014,37,Latvia,65
 2014,38,Portugal,64.8
 2014,39,India,64.6
 2014,40,Costa Rica,63.9
@@ -201,9 +201,9 @@ Year,Rank,Country,Crime Index
 2014,51,South Africa,59.4
 2014,52,Ecuador,59.4
 2014,53,Morocco,59.3
-2014,54,Greece,59.0
+2014,54,Greece,59
 2014,55,Chile,58.7
-2014,56,Bulgaria,58.0
+2014,56,Bulgaria,58
 2014,57,Peru,57.6
 2014,58,Turkey,57.5
 2014,59,Montenegro,56.9
@@ -220,13 +220,13 @@ Year,Rank,Country,Crime Index
 2014,70,Pakistan,50.4
 2014,71,Iran,48.6
 2014,72,Oman,48.1
-2014,73,Belarus,48.0
+2014,73,Belarus,48
 2014,74,Romania,47.3
 2014,75,Ukraine,47.1
 2014,76,Hungary,46.6
 2014,77,Russia,43.5
 2014,78,Ireland,42.6
-2014,79,Venezuela,41.0
+2014,79,Venezuela,41
 2014,80,North Macedonia,33.1
 2014,81,Iraq,28.5
 2014,82,Mongolia,27.2
@@ -253,15 +253,15 @@ Year,Rank,Country,Crime Index
 2015,21,Norway,75.5
 2015,22,Argentina,75.2
 2015,23,Sri Lanka,74.3
-2015,24,Cuba,74.0
-2015,25,Turkey,74.0
+2015,24,Cuba,74
+2015,25,Turkey,74
 2015,26,United Kingdom,73.9
 2015,27,Spain,73.2
 2015,28,Estonia,73.1
 2015,29,New Zealand,72.6
 2015,30,Australia,71.9
 2015,31,Philippines,71.7
-2015,32,Tunisia,71.0
+2015,32,Tunisia,71
 2015,33,Lithuania,70.1
 2015,34,Jordan,69.7
 2015,35,Canada,69.6
@@ -288,16 +288,16 @@ Year,Rank,Country,Crime Index
 2015,56,Ecuador,63.1
 2015,57,Kenya,62.7
 2015,58,Georgia,62.6
-2015,59,Costa Rica,62.0
+2015,59,Costa Rica,62
 2015,60,South Africa,60.1
-2015,61,Saudi Arabia,59.0
+2015,61,Saudi Arabia,59
 2015,62,Kazakhstan,58.9
 2015,63,Puerto Rico,58.7
 2015,64,China,58.7
 2015,65,Chile,58.5
 2015,66,Bulgaria,58.5
 2015,67,Iceland,58.4
-2015,68,Poland,58.0
+2015,68,Poland,58
 2015,69,Morocco,57.8
 2015,70,Slovakia,57.3
 2015,71,Croatia,57.3
@@ -331,7 +331,7 @@ Year,Rank,Country,Crime Index
 2015,99,Nigeria,38.4
 2015,100,North Macedonia,35.1
 2015,101,Vietnam,34.3
-2015,102,Iraq,30.0
+2015,102,Iraq,30
 2015,103,Mongolia,28.3
 2015,104,Azerbaijan,23.9
 2015,105,Honduras,16.1
@@ -340,7 +340,7 @@ Year,Rank,Country,Crime Index
 2016,3,Denmark,81.9
 2016,4,Thailand,80.8
 2016,5,Japan,80.4
-2016,6,South Korea,79.0
+2016,6,South Korea,79
 2016,7,Belgium,78.1
 2016,8,Austria,77.8
 2016,9,Israel,76.1
@@ -351,11 +351,11 @@ Year,Rank,Country,Crime Index
 2016,14,Hong Kong,74.3
 2016,15,Iceland,74.3
 2016,16,Norway,74.2
-2016,17,United Kingdom,74.0
+2016,17,United Kingdom,74
 2016,18,Argentina,73.7
 2016,19,Australia,73.7
 2016,20,Colombia,73.2
-2016,21,Turkey,73.0
+2016,21,Turkey,73
 2016,22,Cyprus,72.9
 2016,23,New Zealand,72.6
 2016,24,Czech Republic,72.3
@@ -364,7 +364,7 @@ Year,Rank,Country,Crime Index
 2016,27,Estonia,69.9
 2016,28,Jordan,69.3
 2016,29,Singapore,69.1
-2016,30,Portugal,69.0
+2016,30,Portugal,69
 2016,31,Switzerland,68.9
 2016,32,Canada,68.6
 2016,33,Mexico,68.1
@@ -380,15 +380,15 @@ Year,Rank,Country,Crime Index
 2016,43,China,61.2
 2016,44,Chile,61.1
 2016,45,Bosnia And Herzegovina,60.5
-2016,46,Poland,60.0
-2016,47,North Macedonia,60.0
-2016,48,Croatia,60.0
+2016,46,Poland,60
+2016,47,North Macedonia,60
+2016,48,Croatia,60
 2016,49,South Africa,59.6
 2016,50,Greece,59.2
 2016,51,Slovakia,58.6
 2016,52,Slovenia,58.5
 2016,53,United Arab Emirates,58.2
-2016,54,Puerto Rico,57.0
+2016,54,Puerto Rico,57
 2016,55,Serbia,55.9
 2016,56,Russia,54.1
 2016,57,Hungary,52.1
@@ -405,7 +405,7 @@ Year,Rank,Country,Crime Index
 2017,3,Taiwan,81.1
 2017,4,Austria,80.9
 2017,5,Thailand,80.7
-2017,6,Sri Lanka,80.0
+2017,6,Sri Lanka,80
 2017,7,Belgium,78.9
 2017,8,Japan,78.6
 2017,9,France,78.6
@@ -423,7 +423,7 @@ Year,Rank,Country,Crime Index
 2017,21,Jordan,71.9
 2017,22,Turkey,71.7
 2017,23,Estonia,71.3
-2017,24,Switzerland,71.0
+2017,24,Switzerland,71
 2017,25,Sweden,70.6
 2017,26,New Zealand,70.6
 2017,27,Portugal,70.3
@@ -435,11 +435,11 @@ Year,Rank,Country,Crime Index
 2017,33,Philippines,69.2
 2017,34,Lithuania,68.7
 2017,35,United States,68.2
-2017,36,Hong Kong,68.0
+2017,36,Hong Kong,68
 2017,37,Uruguay,67.1
 2017,38,Italy,66.3
 2017,39,Qatar,66.1
-2017,40,Malaysia,66.0
+2017,40,Malaysia,66
 2017,41,Colombia,65.8
 2017,42,Tunisia,65.7
 2017,43,Iceland,65.6
@@ -453,17 +453,17 @@ Year,Rank,Country,Crime Index
 2017,51,South Africa,61.7
 2017,52,Bosnia And Herzegovina,61.5
 2017,53,Poland,61.5
-2017,54,Chile,61.0
+2017,54,Chile,61
 2017,55,United Arab Emirates,60.5
 2017,56,Saudi Arabia,60.4
 2017,57,Costa Rica,60.2
-2017,58,Pakistan,59.0
+2017,58,Pakistan,59
 2017,59,Peru,58.5
 2017,60,Kuwait,57.6
 2017,61,Russia,56.4
 2017,62,Puerto Rico,56.3
 2017,63,Cyprus,54.2
-2017,64,Bulgaria,54.0
+2017,64,Bulgaria,54
 2017,65,Greece,53.9
 2017,66,Serbia,53.9
 2017,67,Belarus,53.8
@@ -481,13 +481,13 @@ Year,Rank,Country,Crime Index
 2017,79,Bangladesh,43.5
 2017,80,Venezuela,36.9
 2018,1,South Korea,83.4
-2018,2,Taiwan,82.0
+2018,2,Taiwan,82
 2018,3,Japan,81.7
 2018,4,Netherlands,81.1
 2018,5,Thailand,80.9
 2018,6,Belgium,80.4
 2018,7,Austria,78.8
-2018,8,France,78.0
+2018,8,France,78
 2018,9,Sri Lanka,77.9
 2018,10,Spain,77.5
 2018,11,Denmark,77.1
@@ -498,7 +498,7 @@ Year,Rank,Country,Crime Index
 2018,16,Norway,74.7
 2018,17,United Kingdom,74.2
 2018,18,Israel,74.1
-2018,19,New Zealand,72.0
+2018,19,New Zealand,72
 2018,20,Switzerland,71.7
 2018,21,Estonia,71.3
 2018,22,Argentina,71.3
@@ -511,11 +511,11 @@ Year,Rank,Country,Crime Index
 2018,29,Mexico,68.6
 2018,30,United States,68.4
 2018,31,Philippines,68.2
-2018,32,Italy,68.0
+2018,32,Italy,68
 2018,33,Colombia,67.8
 2018,34,India,67.4
 2018,35,Lithuania,66.8
-2018,36,Indonesia,66.0
+2018,36,Indonesia,66
 2018,37,Malaysia,65.6
 2018,38,Iceland,65.5
 2018,39,Slovenia,64.7
@@ -523,7 +523,7 @@ Year,Rank,Country,Crime Index
 2018,41,Croatia,63.8
 2018,42,Hong Kong,63.8
 2018,43,United Arab Emirates,63.5
-2018,44,South Africa,63.0
+2018,44,South Africa,63
 2018,45,China,62.9
 2018,46,North Macedonia,62.7
 2018,47,Poland,62.1
@@ -538,7 +538,7 @@ Year,Rank,Country,Crime Index
 2018,56,Romania,54.6
 2018,57,Greece,54.2
 2018,58,Serbia,53.4
-2018,59,Ireland,53.0
+2018,59,Ireland,53
 2018,60,Brazil,52.7
 2018,61,Vietnam,52.4
 2018,62,Bulgaria,52.1
@@ -547,7 +547,7 @@ Year,Rank,Country,Crime Index
 2018,65,Ukraine,50.1
 2018,66,Bangladesh,44.6
 2018,67,Egypt,44.4
-2018,68,Morocco,41.0
+2018,68,Morocco,41
 2018,69,Venezuela,39.6
 2019,1,Taiwan,86.2
 2019,2,South Korea,84.5
@@ -572,8 +572,8 @@ Year,Rank,Country,Crime Index
 2019,21,Qatar,72.4
 2019,22,Sri Lanka,72.3
 2019,23,Estonia,72.1
-2019,24,Canada,71.0
-2019,25,Sweden,71.0
+2019,24,Canada,71
+2019,25,Sweden,71
 2019,26,Portugal,70.7
 2019,27,Singapore,70.3
 2019,28,Mexico,69.7
@@ -581,7 +581,7 @@ Year,Rank,Country,Crime Index
 2019,30,Argentina,69.4
 2019,31,Turkey,69.4
 2019,32,India,68.3
-2019,33,United Arab Emirates,68.0
+2019,33,United Arab Emirates,68
 2019,34,Malaysia,67.6
 2019,35,Lithuania,67.6
 2019,36,Colombia,67.5
@@ -594,38 +594,38 @@ Year,Rank,Country,Crime Index
 2019,43,Chile,65.5
 2019,44,Uruguay,64.3
 2019,45,Croatia,64.1
-2019,46,China,64.0
+2019,46,China,64
 2019,47,Slovenia,62.8
 2019,48,South Africa,62.6
 2019,49,Costa Rica,62.6
 2019,50,Poland,62.2
-2019,51,Indonesia,62.0
+2019,51,Indonesia,62
 2019,52,Panama,61.4
 2019,53,Pakistan,60.6
 2019,54,Slovakia,60.1
 2019,55,Latvia,59.7
 2019,56,Tunisia,59.6
 2019,57,Saudi Arabia,59.1
-2019,58,North Macedonia,59.0
-2019,59,Belarus,58.0
+2019,58,North Macedonia,59
+2019,59,Belarus,58
 2019,60,Russia,57.6
-2019,61,Nepal,57.0
+2019,61,Nepal,57
 2019,62,Kuwait,56.3
 2019,63,Nigeria,55.3
 2019,64,Greece,55.2
-2019,65,Peru,55.0
+2019,65,Peru,55
 2019,66,Brazil,54.6
 2019,67,Vietnam,54.5
 2019,68,Romania,54.5
 2019,69,Algeria,54.1
-2019,70,Bulgaria,54.0
-2019,71,Puerto Rico,54.0
+2019,70,Bulgaria,54
+2019,71,Puerto Rico,54
 2019,72,Bosnia And Herzegovina,53.2
 2019,73,Serbia,52.6
 2019,74,Georgia,51.3
 2019,75,Kazakhstan,51.3
 2019,76,Iran,51.2
-2019,77,Ukraine,51.0
+2019,77,Ukraine,51
 2019,78,Cyprus,50.2
 2019,79,Ireland,48.6
 2019,80,Hungary,48.2
@@ -634,10 +634,10 @@ Year,Rank,Country,Crime Index
 2019,83,Bangladesh,40.3
 2019,84,Morocco,36.9
 2020,1,Taiwan,86.7
-2020,2,South Korea,82.0
+2020,2,South Korea,82
 2020,3,Japan,81.1
-2020,4,Denmark,80.0
-2020,5,France,80.0
+2020,4,Denmark,80
+2020,5,France,80
 2020,6,Spain,78.9
 2020,7,Austria,78.7
 2020,8,Thailand,77.9
@@ -671,7 +671,7 @@ Year,Rank,Country,Crime Index
 2020,36,Philippines,67.5
 2020,37,Colombia,67.2
 2020,38,India,67.1
-2020,39,United Arab Emirates,67.0
+2020,39,United Arab Emirates,67
 2020,40,Italy,66.6
 2020,41,Uruguay,66.3
 2020,42,Hong Kong,66.1
@@ -685,13 +685,13 @@ Year,Rank,Country,Crime Index
 2020,50,Latvia,62.9
 2020,51,Croatia,62.7
 2020,52,Costa Rica,62.4
-2020,53,Poland,61.0
+2020,53,Poland,61
 2020,54,Pakistan,60.6
 2020,55,Indonesia,60.5
-2020,56,Slovakia,60.0
+2020,56,Slovakia,60
 2020,57,Panama,59.9
 2020,58,Saudi Arabia,59.1
-2020,59,Belarus,59.0
+2020,59,Belarus,59
 2020,60,Oman,58.2
 2020,61,Vietnam,57.7
 2020,62,Russia,57.6
@@ -709,7 +709,7 @@ Year,Rank,Country,Crime Index
 2020,74,Algeria,54.9
 2020,75,Trinidad And Tobago,54.7
 2020,76,Dominican Republic,54.7
-2020,77,Albania,53.0
+2020,77,Albania,53
 2020,78,Ukraine,52.3
 2020,79,Bosnia And Herzegovina,52.3
 2020,80,Ireland,51.9
@@ -728,9 +728,9 @@ Year,Rank,Country,Crime Index
 2020,93,Venezuela,39.7
 2021,1,Taiwan,86.4
 2021,2,South Korea,82.3
-2021,3,France,81.0
+2021,3,France,81
 2021,4,Japan,80.7
-2021,5,Denmark,80.0
+2021,5,Denmark,80
 2021,6,Spain,78.8
 2021,7,Austria,78.4
 2021,8,Thailand,78.1
@@ -745,21 +745,21 @@ Year,Rank,Country,Crime Index
 2021,17,Germany,73.8
 2021,18,Israel,73.8
 2021,19,New Zealand,73.6
-2021,20,Qatar,73.0
+2021,20,Qatar,73
 2021,21,Estonia,72.8
 2021,22,Sri Lanka,72.6
 2021,23,Mexico,72.5
 2021,24,Portugal,71.9
 2021,25,Canada,71.8
-2021,26,Lithuania,71.0
+2021,26,Lithuania,71
 2021,27,Singapore,70.9
 2021,28,Turkey,70.7
 2021,29,Malaysia,69.6
-2021,30,United States,69.0
+2021,30,United States,69
 2021,31,Ecuador,68.8
 2021,32,Sweden,68.8
 2021,33,Argentina,68.6
-2021,34,United Arab Emirates,68.0
+2021,34,United Arab Emirates,68
 2021,35,Uruguay,67.7
 2021,36,Malta,67.1
 2021,37,Philippines,67.1
@@ -784,14 +784,14 @@ Year,Rank,Country,Crime Index
 2021,56,Indonesia,60.5
 2021,57,Panama,60.4
 2021,58,Kazakhstan,60.1
-2021,59,Kuwait,59.0
+2021,59,Kuwait,59
 2021,60,Russia,58.4
 2021,61,Oman,58.4
 2021,62,Vietnam,58.3
 2021,63,Poland,58.3
 2021,64,Nepal,57.9
 2021,65,Brazil,57.3
-2021,66,Greece,57.0
+2021,66,Greece,57
 2021,67,North Macedonia,56.5
 2021,68,Peru,56.4
 2021,69,Tunisia,56.2
@@ -799,8 +799,8 @@ Year,Rank,Country,Crime Index
 2021,71,Romania,56.1
 2021,72,Kenya,55.8
 2021,73,Puerto Rico,55.6
-2021,74,Algeria,55.0
-2021,75,Dominican Republic,55.0
+2021,74,Algeria,55
+2021,75,Dominican Republic,55
 2021,76,Georgia,53.8
 2021,77,Trinidad And Tobago,53.8
 2021,78,Bosnia And Herzegovina,53.5
@@ -816,7 +816,7 @@ Year,Rank,Country,Crime Index
 2021,88,Morocco,45.8
 2021,89,Iraq,44.6
 2021,90,Belarus,44.4
-2021,91,Azerbaijan,44.0
+2021,91,Azerbaijan,44
 2021,92,Bangladesh,42.7
 2021,93,Venezuela,39.7
 2022,1,Taiwan,86.4
@@ -842,7 +842,7 @@ Year,Rank,Country,Crime Index
 2022,21,Germany,73.2
 2022,22,Mexico,72.8
 2022,23,Sri Lanka,72.1
-2022,24,Portugal,72.0
+2022,24,Portugal,72
 2022,25,Lithuania,71.9
 2022,26,Canada,71.3
 2022,27,Singapore,71.1
@@ -866,8 +866,8 @@ Year,Rank,Country,Crime Index
 2022,45,Jordan,65.6
 2022,46,Slovenia,65.2
 2022,47,Croatia,64.1
-2022,48,South Africa,64.0
-2022,49,Chile,64.0
+2022,48,South Africa,64
+2022,49,Chile,64
 2022,50,Kenya,63.4
 2022,51,Costa Rica,62.7
 2022,52,Lebanon,62.7
@@ -876,7 +876,7 @@ Year,Rank,Country,Crime Index
 2022,55,Saudi Arabia,60.9
 2022,56,Indonesia,60.4
 2022,57,Slovakia,60.3
-2022,58,Kazakhstan,60.0
+2022,58,Kazakhstan,60
 2022,59,Pakistan,59.6
 2022,60,Kuwait,59.4
 2022,61,Russia,59.1
@@ -902,11 +902,11 @@ Year,Rank,Country,Crime Index
 2022,81,Serbia,52.5
 2022,82,Ireland,52.3
 2022,83,Iran,52.3
-2022,84,Cyprus,52.0
+2022,84,Cyprus,52
 2022,85,Albania,50.5
 2022,86,Cambodia,49.4
 2022,87,Nigeria,48.5
-2022,88,Egypt,47.0
+2022,88,Egypt,47
 2022,89,Morocco,46.7
 2022,90,Belarus,45.6
 2022,91,Malta,45.6
@@ -915,7 +915,7 @@ Year,Rank,Country,Crime Index
 2022,94,Bangladesh,42.3
 2022,95,Venezuela,39.3
 2023,1,Taiwan (China),85.9
-2023,2,South Korea,83.0
+2023,2,South Korea,83
 2023,3,Japan,80.3
 2023,4,France,79.4
 2023,5,Denmark,79.2
@@ -928,7 +928,7 @@ Year,Rank,Country,Crime Index
 2023,12,Czech Republic,75.5
 2023,13,Australia,75.3
 2023,14,Belgium,75.2
-2023,15,Luxembourg,75.0
+2023,15,Luxembourg,75
 2023,16,Switzerland,74.5
 2023,17,United Kingdom,74.1
 2023,18,Estonia,74.1
@@ -936,14 +936,14 @@ Year,Rank,Country,Crime Index
 2023,20,Israel,73.5
 2023,21,Lithuania,73.2
 2023,22,Mexico,72.5
-2023,23,Sri Lanka,72.0
+2023,23,Sri Lanka,72
 2023,24,Germany,71.9
 2023,25,Portugal,71.5
-2023,26,New Zealand,71.0
-2023,27,Turkey,71.0
+2023,26,New Zealand,71
+2023,27,Turkey,71
 2023,28,Singapore,70.9
 2023,29,Canada,70.4
-2023,30,Malaysia,70.0
+2023,30,Malaysia,70
 2023,31,United Arab Emirates,69.6
 2023,32,Ecuador,69.5
 2023,33,Argentina,68.9
@@ -954,7 +954,7 @@ Year,Rank,Country,Crime Index
 2023,38,Philippines,67.8
 2023,39,Guatemala,67.5
 2023,40,China,67.5
-2023,41,Iceland,67.0
+2023,41,Iceland,67
 2023,42,Italy,66.3
 2023,43,Hong Kong (China),65.8
 2023,44,Slovenia,65.3
@@ -968,7 +968,7 @@ Year,Rank,Country,Crime Index
 2023,52,Latvia,62.4
 2023,53,Kenya,61.8
 2023,54,Saudi Arabia,61.2
-2023,55,Panama,61.0
+2023,55,Panama,61
 2023,56,Indonesia,60.5
 2023,57,Slovakia,60.1
 2023,58,Kazakhstan,59.9
@@ -982,7 +982,7 @@ Year,Rank,Country,Crime Index
 2023,66,Greece,57.5
 2023,67,Puerto Rico,57.3
 2023,68,Tunisia,57.1
-2023,69,Nepal,57.0
+2023,69,Nepal,57
 2023,70,Bulgaria,56.7
 2023,71,Romania,56.5
 2023,72,Peru,55.9
