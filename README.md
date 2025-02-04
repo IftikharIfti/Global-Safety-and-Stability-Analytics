@@ -15,4 +15,4 @@ pip install -r requirements.txt
 7. Getting the necessary excel files then I have proceeded to create data visualization in tableau
 
 Tableau Public View:
-https://public.tableau.com/app/profile/iftikhar.jaman.ifti/viz/GlobalSafetyandStabilityIndexAnalysis/Dashboard1?publish=yes
+https://public.tableau.com/app/profile/iftikhar.jaman.ifti/viz/GlobalSafetyandStabilityIndexTrends/Dashboard1?publish=yes
