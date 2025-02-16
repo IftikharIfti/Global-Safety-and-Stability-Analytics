@@ -1,5 +1,14 @@
 # Tableau Analytics Dashboard
 
+## Motivation for the project:
+Before doing this project I was surfing the internet which countries are best to live. Usually people tend to choose only those countries which are economically stronger such as high GDP per capita. But high GDP per capita doesn't always ensure a better place to live in. There are lists where it shows living index which doesn't say perfectly which factors were considered to make the list. So, I have made my own index analysis. It takes account on different other indexes and combine them to get an overall result. The factors I have considered:      
+* Global Peace Index
+* Global Health Index
+* Global Crime Index
+* Global Homicide Justice Rate
+* Global Militarisation Index
+* 
+
 ## Preview of the analytics dashboard:
 ![Image](https://github.com/user-attachments/assets/5dd88beb-b3b5-47b7-b8eb-d0e0dcf0c686)
 
