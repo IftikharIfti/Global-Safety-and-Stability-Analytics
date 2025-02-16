@@ -3,11 +3,12 @@
 ## Motivation for the project:
 Before doing this project I was surfing the internet which countries are best to live. Usually people tend to choose only those countries which are economically stronger such as high GDP per capita. But high GDP per capita doesn't always ensure a better place to live in. There are lists where it shows living index which doesn't say perfectly which factors were considered to make the list. So, I have made my own index analysis. It takes account on different other indexes and combine them to get an overall result. The factors I have considered:      
 * [Global Safety Index](https://www.visionofhumanity.org/maps/#/)
-* Global Health Index
-* Global Crime Index
-* Global Homicide Justice Rate
-* Global Militarisation Index
-* Global Press Freedom Index
+* [Global Health Index](https://www.numbeo.com/health-care/rankings_by_country.jsp)
+* [Global Crime Index](https://www.numbeo.com/crime/rankings_by_country.jsp)
+* [Global Homicide Justice Rate](https://dataunodc.un.org/dp-intentional-homicide-victims)
+* [Global Militarisation Index](https://gmi.bicc.de/ranking-table)
+* [Global Press Freedom Index](https://rsf.org/en/index)
+* [GDP Per Capita](https://wits.worldbank.org/CountryProfile/en/Country/BY-COUNTRY/StartYear/2010/EndYear/2022/Indicator/NY-GDP-PCAP-CD)
 These were factors I took into consideration in making my final index which is the Global Safety and Stability index.
 ## Calculation Method:
 * First I scrapped all these indexes from the respected websites. I took all the available years
