@@ -8,7 +8,7 @@ Before doing this project I was surfing the internet which countries are best to
 * [Global Homicide Justice Rate](https://dataunodc.un.org/dp-intentional-homicide-victims)
 * [Global Militarisation Index](https://gmi.bicc.de/ranking-table)
 * [Global Press Freedom Index](https://rsf.org/en/index)
-* [GDP Per Capita](https://wits.worldbank.org/CountryProfile/en/Country/BY-COUNTRY/StartYear/2010/EndYear/2022/Indicator/NY-GDP-PCAP-CD)
+* [GDP Per Capita](https://wits.worldbank.org/CountryProfile/en/Country/BY-COUNTRY/StartYear/2010/EndYear/2022/Indicator/NY-GDP-PCAP-CD)         
 These were factors I took into consideration in making my final index which is the Global Safety and Stability index.
 ## Calculation Method:
 * First I scrapped all these indexes from the respected websites. I took all the available years
@@ -20,6 +20,15 @@ These were factors I took into consideration in making my final index which is t
 
 ## Preview of the analytics dashboard:
 ![Image](https://github.com/user-attachments/assets/5dd88beb-b3b5-47b7-b8eb-d0e0dcf0c686)
+
+## Findings From the index:
+* Estonia was consistence in safety and stability index throughtout 2013 to 2021 even though its GDP per capita is around 20000 USD.
+* Most of the countries are from Europe. Only two asian countries, Singapore and Japan were able to stay in top 15
+* Other than Singapore and Japan  Saudi Arabia, Turkemenistan, Armenia were also close to the top countries
+* Powerful countries like China, Russia, India fell behind due to poor infrastructure in other domains.
+* Higher GDP per capita doesn't mean better safety and stability. Ireland having highest GDP per capita in 2021 still were unable to stay in top position. This is due to less focus in important fields such as militarisation, Health. Countries like United States, Canada are also behind despite having high GDP per capita.
+* But if we look carefully and consider 0.6 as good threshold, most of the high GDP per capita countries were able to stay there.
+* So, the conclusion can be like this: high GDP per capita doesn't ensure safety and stability but a country prosper if their economy is strong enough
 
 
 1. First clone the repository:
