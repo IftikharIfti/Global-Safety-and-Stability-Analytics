@@ -1,4 +1,8 @@
-## Tableau Analytics Dashboard
+# Tableau Analytics Dashboard
+
+## Preview of the analytics dashboard:
+![Image](https://github.com/user-attachments/assets/5dd88beb-b3b5-47b7-b8eb-d0e0dcf0c686)
+
 
 1. First clone the repository:
 ```bash
