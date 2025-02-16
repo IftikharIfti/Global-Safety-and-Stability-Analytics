@@ -2,7 +2,7 @@
 
 ## Motivation for the project:
 Before doing this project I was surfing the internet which countries are best to live. Usually people tend to choose only those countries which are economically stronger such as high GDP per capita. But high GDP per capita doesn't always ensure a better place to live in. There are lists where it shows living index which doesn't say perfectly which factors were considered to make the list. So, I have made my own index analysis. It takes account on different other indexes and combine them to get an overall result. The factors I have considered:      
-* [Global Safety Index]:[https://www.visionofhumanity.org/maps/#/]
+* [Global Safety Index](https://www.visionofhumanity.org/maps/#/)
 * Global Health Index
 * Global Crime Index
 * Global Homicide Justice Rate
