@@ -30,6 +30,7 @@ These were factors I took into consideration in making my final index which is t
 * But if we look carefully and consider 0.6 as good threshold, most of the high GDP per capita countries were able to stay there.
 * So, the conclusion can be like this: high GDP per capita doesn't ensure safety and stability but a country prosper if their economy is strong enough
 
+## Steps to run the project
 
 1. First clone the repository:
 ```bash
