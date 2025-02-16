@@ -1,13 +1,21 @@
-# Tableau Analytics Dashboard
+# Global Safety and Stability Analytics
 
 ## Motivation for the project:
 Before doing this project I was surfing the internet which countries are best to live. Usually people tend to choose only those countries which are economically stronger such as high GDP per capita. But high GDP per capita doesn't always ensure a better place to live in. There are lists where it shows living index which doesn't say perfectly which factors were considered to make the list. So, I have made my own index analysis. It takes account on different other indexes and combine them to get an overall result. The factors I have considered:      
-* Global Peace Index
+* [Global Safety Index]:[https://www.visionofhumanity.org/maps/#/]
 * Global Health Index
 * Global Crime Index
 * Global Homicide Justice Rate
 * Global Militarisation Index
-* 
+* Global Press Freedom Index
+These were factors I took into consideration in making my final index which is the Global Safety and Stability index.
+## Calculation Method:
+* First I scrapped all these indexes from the respected websites. I took all the available years
+* I aligned all the indexes within same range 0 to 1 fr
+* Then I took only those countries which were available in all of the indexes
+* For years I took the lowest maximum year and highest minimum year
+* In the final list only 71 country was present and the year range was from 2013 to 2021
+* Then I multiplied each index with 1/6 and then added all of them
 
 ## Preview of the analytics dashboard:
 ![Image](https://github.com/user-attachments/assets/5dd88beb-b3b5-47b7-b8eb-d0e0dcf0c686)
